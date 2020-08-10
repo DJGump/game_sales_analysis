@@ -1,6 +1,6 @@
 # Video Game Sales Analysis
 
-### An exploration of the effect genre has in number of games sold.
+### An exploration of the effect genre has on number of games sold
 
 1. Data 
 
