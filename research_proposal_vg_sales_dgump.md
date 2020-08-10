@@ -1,6 +1,6 @@
 # Video Game Sales Analysis
 
-### An exploration of how genres sell compared to each other and the change in sales across years
+### An exploration of the effect genre has in number of games sold.
 
 1. Data 
 
